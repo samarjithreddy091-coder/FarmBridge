@@ -1,0 +1,8 @@
+{
+  "name": "FarmBridge AI — Direct Agricultural Marketplace & Smart Advisory",
+  "description": "AI-powered agricultural platform connecting farmers directly with buyers with transparent mandi benchmarking, crop disease diagnosis, and smart inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
